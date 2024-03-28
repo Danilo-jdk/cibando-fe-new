@@ -7,6 +7,7 @@ import CarouselSlider from "./components/CarouselSlider";
 // import { Label } from "@mui/icons-material";
  
 function App() {
+  
   // const [pippo, setPippo] = useState('ciao');
   // const [interruttore, setInterruttore] = useState(false);
 
